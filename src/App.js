@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <h1 className='text-center'>
-        Calculator Using React without EVAL function</h1>
+        Calculator Using React with EVAL function</h1>
         <br/>
         <div className='container flex flex-col items-center justify-center '>
           <div className='w-2/5 bg-[#DEDEDE] rounded-md ' id='inputs'>
